@@ -97,7 +97,7 @@ Depending on the results, we may decide to implement a hybrid pricing model that
 
 By experimenting with different pricing models, we can gain insights into what works best for our product and our target customers. This can help us optimize our pricing strategy and ultimately increase our revenue and customer retention rates.
 
-#### **Experiment 2:** Test different marketing channels to see which ones are most effective in driving traffic and conversions to your website.
+### **Experiment 2:** Test different marketing channels to see which ones are most effective in driving traffic and conversions to your website.
 
 **Hypothesis:** By testing different marketing channels, we can identify the most effective ways to reach our target audience and drive traffic and conversions to our website.
 

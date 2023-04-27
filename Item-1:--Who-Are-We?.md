@@ -1,5 +1,4 @@
-#  **Lexi Genius**
-## **"Legal document creation made fast and easy with LexiGenius."**
+#  **Lexi Genius.** **"Legal document creation made fast and easy with LexiGenius."**
 
 **Business Plan:**
 

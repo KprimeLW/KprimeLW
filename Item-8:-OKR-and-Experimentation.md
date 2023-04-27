@@ -50,6 +50,26 @@
 
 *  Be sure to listen to the feedback that your clients provide and use it to improve the software.
 
+**Objective 3:** Reduce the cost of LexiGenius by 5% in the next quarter.
+
+**Key Result 1:** Negotiate better prices with our vendors.
+
+*  This could involve getting quotes from multiple vendors or negotiating with your current vendors.
+
+*  Be sure to understand the terms of the agreement before you sign it.
+
+**Key Result 2:** Automate more tasks within the software.
+
+*  This could involve automating tasks such as document generation, document review, or document filing.
+
+*  Be sure to choose automation tools that are compatible with LexiGenius.
+
+**Key Result 3:** Reduce the number of support staff needed.
+
+*  This could involve automating support tasks or outsourcing support to a third party.
+
+*  Be sure to choose a support solution that meets the needs of your clients.
+
 
 
 

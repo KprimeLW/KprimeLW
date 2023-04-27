@@ -89,11 +89,11 @@
 
 **Potential outcomes:**
 
-The subscription model may lead to higher customer retention rates and predictable revenue streams.
+*  The subscription model may lead to higher customer retention rates and predictable revenue streams.
 
-The per-document model may lead to higher revenue per customer but may be less predictable.
+*  The per-document model may lead to higher revenue per customer but may be less predictable.
 
-Depending on the results, we may decide to implement a hybrid pricing model that combines the best elements of each pricing model.
+*  Depending on the results, we may decide to implement a hybrid pricing model that combines the best elements of each pricing model.
 
 By experimenting with different pricing models, we can gain insights into what works best for our product and our target customers. This can help us optimize our pricing strategy and ultimately increase our revenue and customer retention rates.
 

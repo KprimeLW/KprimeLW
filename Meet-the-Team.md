@@ -1,5 +1,5 @@
 
-#** Pravat K Timsina**
+# **Pravat K Timsina**
 ![Picture1](https://user-images.githubusercontent.com/75275365/234748946-b6a02367-3211-4dc3-99c7-12da2d17f00b.jpg)
 
 

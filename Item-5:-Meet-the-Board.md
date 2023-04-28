@@ -1,4 +1,4 @@
-# **Eric Goldman**
+## **Eric Goldman**
 
 ![wpid-goldman-eric6](https://user-images.githubusercontent.com/75275365/234805044-9d64b07a-62a1-4522-98e8-938df7feadf9.jpg)
 
@@ -13,24 +13,24 @@ We believe that Eric's extensive experience and deep understanding of the legal 
 
 ![alex karp](https://user-images.githubusercontent.com/75275365/235064397-8ccd8f5f-7678-4d29-86e8-39076ef53d98.jpg)
 
-We are thrilled to announce that Alex Karp has joined our board of directors. With his impressive track record as a technology entrepreneur and executive, we are confident that Alex will bring invaluable insights and expertise to our team.
+Alex Karp is a highly accomplished technology entrepreneur and executive, with a proven track record of success in building and scaling innovative companies. His extensive experience in data analysis and software development would make him an invaluable addition to any company's board.
 
-Prior to joining us, Alex co-founded Palantir Technologies, a data analysis software company that has been instrumental in providing solutions to government agencies and large corporations. Under his leadership, Palantir grew exponentially, becoming one of the most successful technology startups in recent years.
+As co-founder and CEO of Palantir Technologies, Alex played a critical role in developing and commercializing data analytics software that has been used by government agencies and large corporations to make complex decisions. Under his leadership, Palantir grew into one of the most successful technology startups in recent years.
 
-Alex is also widely recognized as a leading voice in the technology industry, having delivered keynote speeches at several high-profile events on a range of topics including data privacy, innovation, and national security. His contributions to the tech industry have earned him a spot on Time Magazine's list of the 100 most influential people in the world.
+Alex's contributions to the technology industry have earned him widespread recognition, including being named to Forbes' "100 Most Powerful People in Business" list. He is also a leading voice in the field of data privacy and national security, having delivered keynote speeches at several high-profile events.
 
-We are confident that Alex's extensive experience in building and scaling successful technology companies, coupled with his deep knowledge of the evolving digital landscape, will be invaluable to our company as we continue to develop cutting-edge products and solutions for our clients. We are excited to have Alex on board and look forward to working together to take our company to new heights.
+With his deep understanding of the evolving digital landscape, coupled with his extensive experience in building and scaling successful technology companies, we are confident that Alex will bring invaluable insights and expertise to our board of directors. His vision for innovation and ability to leverage technology to drive growth and success would be an asset to any company seeking to stay at the forefront of the digital revolution. We would be thrilled to have Alex on board and look forward to working with him to achieve our shared goals.
 
 
-### **Tobias Lütke**
+## **Tobias Lütke**
 
 ![Tobias lotke](https://user-images.githubusercontent.com/75275365/235065132-0026ebbf-8d5a-4e2f-b75a-e1be9676af17.jpg)
 
-We are delighted to announce that Tobi Lütke, the co-founder and CEO of Shopify, has joined our company's board of directors. Tobi is a renowned entrepreneur and technology leader with over two decades of experience in the industry.
+Tobias Lütke is a highly successful entrepreneur and executive with a wealth of experience in the technology industry. As co-founder and CEO of Shopify, Tobias has played a critical role in building one of the world's leading e-commerce platforms.
 
-Under Tobi's leadership, Shopify has grown into one of the world's leading e-commerce platforms, empowering entrepreneurs and small business owners to build and scale successful online businesses. Tobi's focus on innovation and customer-centric design has been instrumental in driving Shopify's success and making it a household name in the world of e-commerce.
+Under Tobias's leadership, Shopify has become a global leader in providing e-commerce solutions to businesses of all sizes, from small startups to large enterprises. His deep understanding of the needs of online merchants has been instrumental in driving Shopify's growth and success.
 
-In addition to his role at Shopify, Tobi is also a prominent voice in the technology industry and has spoken at several high-profile events on topics related to entrepreneurship, technology, and innovation. His contributions to the tech community have earned him numerous awards and accolades, including being named to Time Magazine's list of the 100 most influential people in the world.
+Tobias's expertise in technology and innovation has earned him widespread recognition, including being named to Forbes' "Billionaires" list. He is also a leading voice in the technology industry, having spoken at several high-profile events on topics ranging from entrepreneurship to e-commerce.
 
-We are confident that Tobi's extensive experience in building and scaling successful technology companies, coupled with his deep knowledge of the e-commerce industry, will be invaluable to our company as we continue to develop innovative products and solutions for our customers. We are thrilled to welcome Tobi to our board of directors and look forward to working with him to drive our company's growth and success.
+With his extensive experience in building and scaling successful technology companies, coupled with his deep understanding of the e-commerce landscape, we are confident that Tobias would make an excellent addition to any company's board of directors. His vision for innovation and commitment to helping businesses succeed in the digital age makes him a valuable asset to any organization seeking to drive growth and success. We would be thrilled to have Tobias on board and look forward to working with him to achieve our shared goals.
 

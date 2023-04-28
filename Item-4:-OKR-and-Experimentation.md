@@ -1,4 +1,4 @@
-# **OKR**
+# **OKR:**
 
 **Objective 1:** Increase the number of law firms and businesses that use LexiGenius by 20% in the next quarter.
 
@@ -70,7 +70,21 @@
 
 *  Be sure to choose a support solution that meets the needs of your clients.
 
-# Experimentation
+# Experimentation:
+
+Creating a prototype can be a crucial step in testing and refining the product before investing significant resources in development. Here are some ways that we could create a cheap prototype:
+
+* Use wireframing tools: Wireframing tools like Figma, Sketch, or Balsamiq can help create a visual representation of the product's layout and functionality without any coding.
+
+* Create a video demo: Create a video that demonstrates how the product would work and its key features. This can be done using basic video editing tools like iMovie or Adobe Premiere Pro.
+
+* Build a landing page: A landing page with a brief description of the product and a signup form can help gauge interest and collect email addresses of potential customers.
+
+* Use paper or cardboard mockups: Draw the interface on paper or cardboard and use cutouts to show how the product would work. This can be a fun and interactive way to test the product's usability.
+
+* Use low-code platforms: Low-code platforms like Bubble, Glide, or AppSheet allow you to create functional prototypes without extensive coding knowledge.
+
+By creating a cheap prototype, LexiGenius can test and iterate on its product before investing significant resources in development, which can save time and money in the long run.
 
 ## **Experiment 1:** A/B tests different pricing models for our software.
 

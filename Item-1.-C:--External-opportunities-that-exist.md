@@ -1,1 +1,0 @@
-#  **External opportunities that exist:** 

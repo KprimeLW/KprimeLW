@@ -20,7 +20,7 @@ Ashish started his academic journey at Contra Costa College, where he completed 
  After completing his associate degree, Ashish enrolled at California State University, East Bay, to continue his studies. He is currently pursuing a bachelor's degree in Computer Science, where he is further expanding his knowledge and skills in the field. Ashish's passion for technology and software development is evident in his work. He is proficient in several programming languages, including Java, Python, and C++, and he has a deep understanding of computer science concepts. He has also gained practical experience through internships and personal projects, where he has demonstrated his ability to apply his knowledge to real-world problems. 
 In addition to his academic pursuits, Ashish is an aspiring entrepreneur who is passionate about using technology to create positive change in the world. He is constantly exploring new ideas and looking for ways to make an impact through his work. Despite facing challenges along the way, Ashish remains committed to his goals and aspirations. He serves as an inspiration to others who aspire to pursue their passions and make a difference in the world through technology.
 
-### **Minh-Triet Hoang Nguyen**
+## **Minh-Triet Hoang Nguyen**
 
 ![Picture3](https://user-images.githubusercontent.com/75275365/234752806-ea17f7aa-7dc1-4841-9fe8-10cfc403fa51.jpg)
 
@@ -33,7 +33,7 @@ Been through a couple of interns as a test engineer for hardware and software fo
 
 Triet also has a heart for art and music and enjoys a hike on a weekend to relax the mind. Also, the person that wants to learn all about unexplained sciences through his faith in the Catholic Church. Hoping to learn the limits of humanity to best serve mankind.
 
-#### **Svein Shaun Rafter Quintos**
+### **Svein Shaun Rafter Quintos**
 
 ![Picture4](https://user-images.githubusercontent.com/75275365/234752893-f2b49c56-b85d-440a-b456-714e925b55fd.jpg)
 

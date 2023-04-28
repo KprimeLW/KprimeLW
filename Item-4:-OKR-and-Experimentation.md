@@ -1,4 +1,4 @@
-# **OKR:**
+# A. **OKR:**
 
 **Objective 1:** Increase the number of law firms and businesses that use LexiGenius by 20% in the next quarter.
 
@@ -137,6 +137,10 @@ By experimenting with different pricing models, we can gain insights into what w
 *  Content marketing may lead to higher engagement and brand awareness, but may require more effort to produce high-quality content.
 
 By experimenting with different marketing channels, you can identify which ones work best for your startup and optimize your marketing strategy accordingly. This can help you attract more potential customers, increase your conversion rates, and ultimately drive more revenue for your business.
+
+# B. Priorities:
+
+A high-priority experiment could be to test the hypothesis that potential customers would be interested in using LexiGenius as a cost-effective and efficient alternative to traditional legal document generation methods. This can be tested by conducting market research surveys or focus groups to gather feedback from potential customers on the idea of using an automated legal document generation software, their pain points with current methods, and their willingness to pay for such a service. The results of this experiment can provide valuable insights into the market demand and potential pricing strategy for the product.
 
 
 

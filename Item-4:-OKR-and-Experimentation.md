@@ -1,6 +1,6 @@
 # A. **OKR:**
 
-**Objective 1:** Increase the number of law firms and businesses that use LexiGenius by 20% in the next quarter.
+## **Objective 1:** Increase the number of law firms and businesses that use LexiGenius by 20% in the next quarter.
 
 **Key Result 1:** Develop a marketing campaign that targets law firms and businesses in our target market.
 
@@ -30,7 +30,7 @@
 
 *  Be sure to follow up with potential clients after the event.
 
-**Objective 2:** Improve the accuracy of LexiGenius by 10% in the next quarter.
+## **Objective 2:** Improve the accuracy of LexiGenius by 10% in the next quarter.
 
 **Key Result 1:** Hire more experienced legal professionals to help improve the accuracy of the software.
 
@@ -50,7 +50,7 @@
 
 *  Be sure to listen to the feedback that your clients provide and use it to improve the software.
 
-**Objective 3:** Reduce the cost of LexiGenius by 5% in the next quarter.
+## **Objective 3:** Reduce the cost of LexiGenius by 5% in the next quarter.
 
 **Key Result 1:** Negotiate better prices with our vendors.
 

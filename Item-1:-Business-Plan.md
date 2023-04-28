@@ -1,4 +1,5 @@
-# A. **Who are we: "Lexi Genius"** 
+# A. Who are we: 
+## **"Lexi Genius"** 
 
 LexiGenius is a software company that provides Automated legal document generation software to law firms and businesses. Our software will enable our clients to create legal documents quickly and accurately while saving time and money. We aim to disrupt the legal industry by making it easier for our clients to access the legal documents they need. Our product will be available as a cloud-based service, which will allow our clients to access the software from anywhere with an internet connection.
 
@@ -108,4 +109,28 @@ With little prior experience in the field, Svein dove headfirst into learning ev
 Looking forward to the future, Svein is excited about the many possibilities that a career in the computer science field can offer. Svein hopes to use their skills to make a meaningful impact on the world, whether it's through building innovative new products or tackling important social issues with technology.
 
 # E: Strategy:
+As a software company providing automated legal document generation software to law firms and businesses, our startup's strategy focuses on the following key areas:
+
+## **Product development:** 
+
+Continuously develop and improve our software to meet the evolving needs of our customers. This could involve conducting user research, soliciting feedback from customers, and iterating on our product roadmap.
+
+## **Customer acquisition:**
+
+Develop a comprehensive marketing strategy that focuses on reaching potential customers through a variety of channels, such as digital advertising, content marketing, social media, and search engine optimization.
+
+## **Partnerships and integrations:**
+
+Identify strategic partnerships and integrations with other companies in the legal industry to expand our reach and offer more value to our customers.
+
+## **Customer retention:** 
+
+Provide excellent customer service and support to build long-term relationships with our customers. This could involve offering training, educational resources, and ongoing updates and maintenance for our software.
+
+## **Business operations:**
+
+Establish effective operational processes to ensure that our company runs smoothly and efficiently. This could involve developing financial forecasts, managing cash flow, and identifying opportunities to optimize costs and increase revenue.
+
+Overall, our startup's strategy focuses on providing high-quality, efficient, and cost-effective legal document generation software to our customers. By continuously innovating and improving our product, reaching potential customers through targeted marketing channels, building strategic partnerships, providing excellent customer service, and managing our business operations effectively, we can position our startup for long-term success in the legal industry.
+
 # F: Slogan:

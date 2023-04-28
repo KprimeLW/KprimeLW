@@ -70,9 +70,9 @@
 
 *  Be sure to choose a support solution that meets the needs of your clients.
 
-## Experimentation
+# Experimentation
 
-### **Experiment 1:** A/B tests different pricing models for our software.
+## **Experiment 1:** A/B tests different pricing models for our software.
 
 **Hypothesis:** By testing different pricing models, we can optimize our pricing strategy to increase revenue and customer retention.
 
@@ -97,7 +97,7 @@
 
 By experimenting with different pricing models, we can gain insights into what works best for our product and our target customers. This can help us optimize our pricing strategy and ultimately increase our revenue and customer retention rates.
 
-### **Experiment 2:** Test different marketing channels to see which ones are most effective in driving traffic and conversions to your website.
+## **Experiment 2:** Test different marketing channels to see which ones are most effective in driving traffic and conversions to your website.
 
 **Hypothesis:** By testing different marketing channels, we can identify the most effective ways to reach our target audience and drive traffic and conversions to our website.
 

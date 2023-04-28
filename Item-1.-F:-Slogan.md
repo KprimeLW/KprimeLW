@@ -1,1 +1,1 @@
-a
+# **"Legal document creation made fast and easy with LexiGenius."**
